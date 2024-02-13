@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990957324315",
+    "project_id": "tinda-d3b93",
+    "storage_bucket": "tinda-d3b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990957324315:android:d0b8fb8c264ed4002e10be",
+        "android_client_info": {
+          "package_name": "com.example.tindaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZmPT7iLl4KXiNc4wfuXGkg1tMyEBXhxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
